@@ -150,6 +150,7 @@ main {
     gap: 2rem;
     margin-left: 4rem;
     margin-bottom: 6rem;
+    margin-right: -1.5rem;
     margin-top: 3rem;
 }
 
@@ -183,6 +184,7 @@ main {
 .info-card {
     display: flex;
     margin-left: 4rem;
+    margin-right: -1.5rem;
     border-radius: 15px;
     background-color: #483EFF;
     padding: 2rem;
@@ -273,7 +275,7 @@ main {
 .help {
     position: fixed;
     bottom: 0;
-    right: 5vw;
+    right: 3vw;
 }
 
 .help img {
