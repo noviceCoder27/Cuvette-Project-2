@@ -155,7 +155,7 @@ main {
 }
 
 .cards div {
-    height: 18vh;
+    min-height: 18vh;
     width: 337px;
     margin-top: 3rem;
     border-radius: 15px;
