@@ -38,7 +38,8 @@ header ul {
 
 header img {
     width: 5%;
-    height: 50%
+    height: 50%;
+    content-visibility: auto;
 }
 
 nav {
@@ -92,6 +93,8 @@ nav ul li:last-child {
 .search-field img {
     display: absolute;
     width: 20px;
+    height: auto;
+    content-visibility: auto;
     transform: translateX(-2.5vw) translateY(0.5vh);
 }
 
@@ -279,6 +282,8 @@ main {
 .next-button img {
     margin-top: 0.4rem;
     width: 70%;
+    height:auto;
+    content-visibility: auto;
 }
 
 
@@ -293,6 +298,8 @@ main {
 }
 .icons img {
     width: 50%;
+    height: auto;
+    content-visibility: auto;
     cursor: pointer;
 }
 
@@ -304,6 +311,8 @@ main {
 
 .help img {
     width: 120px;
+    height: auto;
+    content-visibility: auto;
     cursor: pointer;
 }
 
