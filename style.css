@@ -302,7 +302,6 @@ main {
 }
 .icons img {
     width: 50%;
-    height: auto;
     content-visibility: auto;
     cursor: pointer;
 }
